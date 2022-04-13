@@ -1,4 +1,4 @@
-# OLX PWA APP ❤️
+#  ❤️ OLX PWA APP ❤️
 ## Build with vanillaJs
 
 ## Functionality:  
